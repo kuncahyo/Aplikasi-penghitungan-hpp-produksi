@@ -1,0 +1,9 @@
+buka login: index.php 
+
+1. Admin (Keuangan dan produksi)
+Username : admin
+Password : 1234567
+=====================================
+2. Pimpinan
+Username : Alex
+Password : 12345
